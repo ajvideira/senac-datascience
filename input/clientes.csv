@@ -1,0 +1,9 @@
+id_cliente,nome,idade,estado,email,data_cadastro
+101,Ana Silva,28,SP,ana.silva@email.com,2019-05-15
+102,Bruno Costa,42,RJ,bruno.costa@email.com,2018-11-01
+103,Carla Mendes,22,MG,carla.mendes@email.com,2020-03-10
+104,Daniel Moreira,55,SP,daniel.moreira@email.com,2021-07-22
+105,Elisa Fernandes,30,RS,elisa.fernandes@email.com,2019-01-30
+106,Fabio Guedes,41,MG,fabio.guedes@email.com,2022-02-14
+107,Gabriela Lima,29,RJ,gabriela.lima@email.com,2020-08-05
+108,Helio Rocha,36,BA,helio.rocha@email.com,2021-11-30

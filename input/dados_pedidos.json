@@ -1,0 +1,25 @@
+[
+  {
+    "pedido_id": "P-001",
+    "data_pedido": "2025-01-15T10:00:00Z",
+    "cliente": {"id": 101, "nome": "Júlia Lima"},
+    "status": "Pago",
+    "valor_total": 150.0,
+    "detalhes": [
+      {"item_id": 1, "produto": "Caneca", "qtd": 2, "preco_unitario": 35.0, "desconto_aplicado": "0"},
+      {"item_id": 2, "produto": "Caderno", "qtd": 1, "preco_unitario": 80.0, "desconto_aplicado": "0"}
+    ]
+  },
+  {
+    "pedido_id": "P-002",
+    "data_pedido": "2025-01-16T15:30:00Z",
+    "cliente": {"id": 102, "nome": "Marcos Silva"},
+    "status": "Pendente",
+    "valor_total": 200.0,
+    "detalhes": [
+      {"item_id": 3, "produto": "Caneta", "qtd": 5, "preco_unitario": 10.0, "desconto_aplicado": "5"},
+      {"item_id": 4, "produto": "Mochila", "qtd": 1, "preco_unitario": "150.00"},
+      {"item_id": 5, "produto": "Chaveiro", "qtd": 3, "preco_unitario": 5.0, "desconto_aplicado": "INVÁLIDO"}
+    ]
+  }
+]
