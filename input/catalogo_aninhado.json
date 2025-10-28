@@ -1,0 +1,31 @@
+{
+  "catalogoInfo": {
+    "ultimaAtualizacao": "2023-10-27T10:30:00Z",
+    "responsavel": "Equipe de E-commerce"
+  },
+  "catalogoProdutos": [
+    {
+      "id": "PROD001",
+      "nome": "Smartphone X",
+      "categoria": "Eletrônicos",
+      "preco": 999.99,
+      "especificacoes": {
+        "armazenamento": "128GB",
+        "cor": "Preto",
+        "ram": "8GB"
+      },
+      "tags": ["mobile", "premium"]
+    },
+    {
+      "id": "PROD002",
+      "nome": "Smart TV 55",
+      "categoria": "Eletrônicos",
+      "preco": 1499.00,
+      "especificacoes": {
+        "resolucao": "4K",
+        "tamanhoTela": "55p"
+      },
+      "tags": ["tv", "entretenimento"]
+    }
+  ]
+}

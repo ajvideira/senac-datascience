@@ -1,0 +1,17 @@
+[
+  {
+    "loja_id": "L001",
+    "cidade": "São Paulo",
+    "vendas": [
+      {"id_venda": "V1", "produto": "Notebook", "valor": 3500},
+      {"id_venda": "V2", "produto": "Mouse", "valor": 80}
+    ]
+  },
+  {
+    "loja_id": "L002",
+    "cidade": "Rio de Janeiro",
+    "vendas": [
+      {"id_venda": "V3", "produto": "Teclado", "valor": 250}
+    ]
+  }
+]
